@@ -1,1 +1,1 @@
-# OptimDB-B-Tree-Based-Mini-Database
+# OptimDB-B-Plus-Tree-Based-Mini-Database
